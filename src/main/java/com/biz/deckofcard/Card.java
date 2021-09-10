@@ -1,4 +1,4 @@
-package com.biz.oops;
+package com.biz.deckofcard;
 
 // Represents a card in cards game
 public class Card {

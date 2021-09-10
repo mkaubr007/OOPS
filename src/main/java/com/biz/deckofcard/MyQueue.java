@@ -1,4 +1,4 @@
-package com.biz.oops;
+package com.biz.deckofcard;
 
 public class MyQueue<T> {
 

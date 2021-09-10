@@ -1,4 +1,4 @@
-package com.biz.oops;
+package com.biz.deckofcard;
 
 class MyNode<T>{
     T data;	//data to be stored
